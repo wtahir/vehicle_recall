@@ -7,6 +7,6 @@ performance as compared to DT and that the released model is recommended as reca
 
 # Usage
 
-Notebook ```car_data.ipynb ```takes input data in the form of a csv file which shows if a particular car is worthy of a recal or not depending on different variables. This data is used for training of two machine learning models and then prediction is made on the test data. 
+Notebook ```car_data.ipynb ```takes input data ``` Recall_Data.csv``` in the form of a csv file which shows if a particular car is worthy of a recal or not depending on different variables. This data is used for training of two machine learning models and then prediction is made on the test data  ``` ```. 
 
 The hypermeters parameters of both models are tunned and the parameters are provided in the Notebook.
