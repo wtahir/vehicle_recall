@@ -1,0 +1,101 @@
+model year,fuel,wheel,power (hp),transmission,body,variant,quantity sold,recall result
+2002,diesel,steel,100,semi-automatic,hatchback,Base,2641,recall
+2010,petrol,alloy,250,automatic,wagon,GT,1349,recall
+1992,diesel,steel,125,semi-automatic,saloon,S,7980,do not recall
+2010,petrol,alloy,250,semi-automatic,wagon,Base,1135,do not recall
+2005,diesel,steel,300,automatic,saloon,Base,2089,recall
+2011,diesel,steel,125,manual,wagon,GT,8604,do not recall
+2010,hybrid,steel,150,manual,saloon,GT,8496,do not recall
+2007,hybrid,steel,300,semi-automatic,saloon,S,8767,recall
+1993,diesel,steel,125,semi-automatic,saloon,Base,2099,do not recall
+1982,electric,steel,125,automatic,saloon,Base,9170,do not recall
+1996,petrol,alloy,250,automatic,saloon,S,9672,do not recall
+2010,hybrid,steel,100,automatic,coupe,Base,8301,do not recall
+2010,hybrid,steel,300,semi-automatic,wagon,S,8648,recall
+1984,petrol,alloy,200,semi-automatic,hatchback,GT,7508,recall
+1997,petrol,steel,125,automatic,coupe,S,5825,recall
+1992,petrol,steel,200,manual,coupe,Base,7762,recall
+1999,petrol,steel,100,manual,wagon,GT,5043,do not recall
+1999,petrol,alloy,100,manual,coupe,Base,4190,do not recall
+2010,diesel,steel,125,manual,wagon,Base,8426,recall
+2002,hybrid,steel,125,automatic,coupe,Base,8123,recall
+2009,electric,steel,200,semi-automatic,saloon,S,1406,do not recall
+1997,petrol,steel,250,semi-automatic,coupe,GT,4356,do not recall
+2002,hybrid,alloy,125,automatic,saloon,Base,1750,do not recall
+1996,diesel,alloy,100,manual,coupe,Base,8305,do not recall
+2011,electric,steel,100,semi-automatic,coupe,GT,3204,do not recall
+2002,petrol,steel,250,semi-automatic,saloon,GT,9525,recall
+2009,hybrid,steel,250,automatic,saloon,GT,6970,recall
+1998,hybrid,alloy,125,semi-automatic,coupe,GT,2697,recall
+1988,diesel,alloy,125,manual,saloon,Base,7189,recall
+2007,petrol,steel,100,automatic,wagon,GT,3634,do not recall
+1996,petrol,alloy,150,semi-automatic,saloon,S,6307,do not recall
+2000,hybrid,alloy,125,manual,wagon,GT,4845,recall
+1997,hybrid,alloy,300,manual,coupe,S,7701,recall
+1975,hybrid,alloy,100,automatic,hatchback,S,4038,do not recall
+1999,electric,alloy,200,automatic,wagon,Base,4773,recall
+1996,petrol,steel,250,semi-automatic,hatchback,GT,7991,do not recall
+1995,electric,alloy,250,semi-automatic,wagon,GT,7398,do not recall
+2007,hybrid,alloy,150,manual,hatchback,S,7790,recall
+2003,electric,steel,200,semi-automatic,wagon,GT,4636,do not recall
+2010,petrol,alloy,100,automatic,saloon,S,6130,recall
+1997,petrol,steel,125,manual,coupe,Base,8303,do not recall
+2011,electric,steel,200,manual,saloon,GT,7521,do not recall
+2008,diesel,steel,250,semi-automatic,hatchback,GT,2894,recall
+2009,petrol,alloy,200,semi-automatic,wagon,Base,7018,recall
+2003,hybrid,alloy,100,automatic,coupe,Base,6384,do not recall
+1991,petrol,steel,150,automatic,saloon,S,5517,recall
+2005,diesel,steel,200,automatic,wagon,Base,8207,recall
+2002,hybrid,steel,125,manual,saloon,S,9983,do not recall
+1999,diesel,steel,150,automatic,wagon,GT,2347,recall
+1999,electric,alloy,125,semi-automatic,coupe,Base,8028,do not recall
+2005,hybrid,steel,200,manual,coupe,S,8311,do not recall
+2006,hybrid,steel,200,manual,coupe,S,1851,do not recall
+2000,diesel,alloy,125,automatic,saloon,Base,6052,recall
+1974,electric,alloy,300,automatic,hatchback,S,7192,do not recall
+2002,electric,alloy,150,automatic,coupe,Base,2933,recall
+2010,electric,steel,125,automatic,hatchback,S,2155,recall
+2003,hybrid,alloy,150,semi-automatic,wagon,Base,7626,recall
+1996,diesel,alloy,125,manual,hatchback,S,7831,recall
+1998,diesel,steel,250,manual,wagon,GT,7951,do not recall
+2011,petrol,alloy,125,semi-automatic,coupe,S,1992,do not recall
+2010,hybrid,alloy,300,semi-automatic,coupe,S,3592,do not recall
+1997,petrol,alloy,300,automatic,wagon,Base,8727,recall
+2001,petrol,alloy,150,automatic,saloon,Base,9391,recall
+2008,electric,alloy,200,manual,wagon,GT,5438,do not recall
+1997,diesel,alloy,150,manual,saloon,GT,9909,do not recall
+2010,hybrid,steel,250,manual,wagon,GT,1182,do not recall
+1985,hybrid,steel,150,semi-automatic,wagon,S,1743,recall
+2001,diesel,steel,300,automatic,coupe,S,1453,do not recall
+2006,petrol,alloy,300,semi-automatic,saloon,S,6631,do not recall
+2010,electric,steel,200,automatic,wagon,GT,7610,recall
+2011,diesel,steel,200,manual,saloon,S,8168,do not recall
+2008,petrol,alloy,200,manual,wagon,S,2663,do not recall
+2011,hybrid,steel,125,automatic,wagon,GT,7100,recall
+1985,electric,alloy,250,semi-automatic,saloon,S,5398,recall
+1989,diesel,steel,100,semi-automatic,coupe,GT,9169,do not recall
+1995,diesel,steel,250,manual,saloon,S,5278,recall
+2011,diesel,steel,125,automatic,saloon,GT,1095,do not recall
+1988,diesel,alloy,300,manual,coupe,S,1445,do not recall
+1994,electric,steel,300,automatic,coupe,S,3910,do not recall
+2012,hybrid,steel,125,automatic,saloon,S,3007,recall
+2009,hybrid,steel,100,automatic,coupe,GT,8785,do not recall
+2008,diesel,alloy,200,semi-automatic,coupe,S,8233,do not recall
+1997,petrol,alloy,125,automatic,saloon,Base,6552,do not recall
+1995,petrol,alloy,100,semi-automatic,wagon,Base,6340,recall
+1993,diesel,alloy,300,manual,saloon,Base,6540,recall
+1982,diesel,alloy,100,automatic,wagon,GT,6487,do not recall
+2003,diesel,alloy,250,automatic,saloon,Base,7042,do not recall
+1994,petrol,alloy,200,semi-automatic,saloon,S,2045,recall
+1992,diesel,alloy,100,automatic,coupe,S,3742,do not recall
+1992,electric,alloy,200,semi-automatic,wagon,S,6741,recall
+2010,petrol,alloy,200,manual,hatchback,GT,6907,do not recall
+1988,hybrid,alloy,300,automatic,coupe,Base,8127,recall
+1998,petrol,alloy,150,semi-automatic,wagon,GT,5270,do not recall
+2011,diesel,steel,200,automatic,wagon,GT,8829,do not recall
+1995,diesel,steel,150,semi-automatic,wagon,S,7298,do not recall
+2003,petrol,alloy,150,automatic,wagon,S,8929,recall
+2001,electric,alloy,150,manual,saloon,Base,4872,do not recall
+1992,diesel,steel,100,automatic,hatchback,Base,6062,recall
+2006,electric,alloy,200,automatic,saloon,Base,7299,recall
+2008,diesel,steel,100,automatic,hatchback,GT,1911,do not recall
